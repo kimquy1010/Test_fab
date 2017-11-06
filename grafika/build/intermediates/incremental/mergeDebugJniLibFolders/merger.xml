@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="O:\Projects\Test_fab\grafika\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="O:\Projects\Test_fab\grafika\src\debug\jniLibs"/></dataSet></merger>

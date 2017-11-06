@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\Quynh\.android\build-cache\780d08f5abae29531737673c343799c898e0fb01\output\assets"/></dataSet><dataSet config="main"><source path="O:\Projects\Test_fab\grafika\src\main\assets"/><source path="O:\Projects\Test_fab\grafika\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="O:\Projects\Test_fab\grafika\src\debug\assets"/></dataSet></merger>

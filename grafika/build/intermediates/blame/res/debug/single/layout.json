@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_texture_view_gl.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_texture_view_gl.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\work_dialog.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\work_dialog.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_fbo.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_record_fbo.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_texture_from_camera.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_texture_from_camera.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera_capture.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_camera_capture.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_screen.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_record_screen.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\about_dialog.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\about_dialog.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gles_info.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_gles_info.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play_movie_surface.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_play_movie_surface.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hardware_scaler.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_hardware_scaler.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_double_decode.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_double_decode.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_read_pixels.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_read_pixels.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_continuous_capture.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_continuous_capture.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chor_test.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_chor_test.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_codec_open.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_codec_open.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_color_bar.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_color_bar.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_texture_view_canvas.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_texture_view_canvas.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_multi_surface_test.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_multi_surface_test.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_soft_input_surface.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_soft_input_surface.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_texture_upload.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_texture_upload.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scheduled_swap.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_scheduled_swap.xml"
+    },
+    {
+        "merged": "O:\\Projects\\Test_fab\\grafika\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play_movie.xml",
+        "source": "O:\\Projects\\Test_fab\\grafika\\src\\main\\res\\layout\\activity_play_movie.xml"
+    }
+]
