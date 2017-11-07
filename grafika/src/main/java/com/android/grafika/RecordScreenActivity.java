@@ -49,7 +49,7 @@ public class RecordScreenActivity extends Activity implements SurfaceTexture.OnF
     private VideoEncoderSimpleRtmp mVideoEncoder;
     private File outputFile;
     private SurfaceTexture mSurfaceTexture;
-    private String mRtmpUrl = "rtmp://live-api-a.facebook.com:80/rtmp/1360183120773860?ds=1&a=ATgVJyrFDFSNL-cl";
+    private String mRtmpUrl = "rtmp://live-api-a.facebook.com:80/rtmp/1360917600700412?ds=1&a=ATjbTSEGJkXs4UvF";
     private static final int BIT_RATE = 1200 * 1024;
     private boolean mRecordingEnabled = true;
     private static AudioRecord mic;
@@ -64,7 +64,8 @@ public class RecordScreenActivity extends Activity implements SurfaceTexture.OnF
         public void run() {
             Log.d(TAG, "Start draining Encoder");
             mVideoEncoder.onGetVideoFrame(false);
-            mHandler.postDelayed(this, 33);
+            mHandler.postDelayed(this, 20);
+
         }
     };
     private byte[] mPcmBuffer = new byte[4096];
@@ -117,16 +118,18 @@ public class RecordScreenActivity extends Activity implements SurfaceTexture.OnF
 
     private void startEncode() {
         Log.d(TAG,"Start encoder");
-        if (!mVideoEncoder.start()) {
-            return;
-        }
         startVideo();
-//        startAudio();
+        startAudio();
     }
     private void stopEncode(){
         Log.d(TAG, "Stop encoder");
-        stopVideo();
+         if (mVideoEncoder !=null) {
+             mVideoEncoder = null;
+             mVideoEncoder.release();
+         }
         stopAudio();
+        stopVideo();
+
     }
 
 
@@ -299,6 +302,9 @@ public class RecordScreenActivity extends Activity implements SurfaceTexture.OnF
         Log.d(TAG, "Activity has been paused");
     }
 
-
-
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        stopEncode();
+    }
 }
